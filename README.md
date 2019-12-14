@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/vijaysqlrapid0486/Demo1/_apis/build/status/patil2000.vijaypatil?branchName=master)](https://dev.azure.com/vijaysqlrapid0486/Demo1/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
